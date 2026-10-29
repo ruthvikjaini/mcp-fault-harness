@@ -1,0 +1,1 @@
+{"client":{"breaker_reset_ms":1000,"breaker_threshold":3,"timeout_ms":2000},"experiment":{"base_seed":0,"capabilities":["small","large"],"n_seeds":25,"policies":["naive","retry","fallback","resilient"],"profiles":["fault_free","transient","intermittent","stress"]},"scoring":{"fallback_credit":0.6,"scale":"0-10 per task, mean over sub-answers"}}

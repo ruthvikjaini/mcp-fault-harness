@@ -1,0 +1,3 @@
+# The library itself has no runtime dependencies (Python standard library only).
+# The lines below are for the test tooling only.
+pytest>=8
